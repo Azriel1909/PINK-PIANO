@@ -1,3 +1,3 @@
-#PINK PIANO
-A CSS projet
+# PINK PIANO
+A CSS project
 By Ximena Toledo
